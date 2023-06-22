@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-/* This block code identifies if a number is positive or negative or if it is  0*/
+/*This block code identifies if a number is positive or negative or if it is  0*/
 int main(void)
 {
 	int n;
@@ -15,7 +15,7 @@ int main(void)
 	}
 	else if (n < 0)
 	{
-	printf("%d is negative\n",n);
+	printf("%d is negative\n", n);
 	}
 	else 
 	{
