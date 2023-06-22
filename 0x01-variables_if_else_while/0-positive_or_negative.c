@@ -2,7 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 
-/*This block code identifies if a number is positive or negative or if it is  0*/
+/*main - determines whether anumber is positive, negative or zero.
+ *
+ * Return: Always 0 */
 int main(void)
 {
 	int n;
