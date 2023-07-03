@@ -1,14 +1,14 @@
 #include <stdio.h>
 
 /**
- * main - prints out all alphabets but a and q
+ * main - prints out all alphabets but e and q
  *
  * Return: 0 (Success)
  */
 
 int main(void)
 {
-	char lttrs[24]  = "abcdfghijklmnopqrstuvwxz";
+	char lttrs[24]  = "abcdfghijklmnoprstuvwxyz";
 	int i;
 
 	for (i = 0; i < 24; ++i)
